@@ -13,7 +13,7 @@
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/Joabe-IA/Criando-um-repositorio-para-um-projeto-/blob/84637dcfc1bc8b1668ce0a1c2a1eea747e50b32b/Screenshot_20241116_092529_File%20Manager%20%2B.jpg"
     />
     <p>&nbsp&nbsp&nbspJoabe Souza<br>
     &nbsp&nbsp&nbsp
@@ -21,8 +21,7 @@
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/joabe-souza">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+     </a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
